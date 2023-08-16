@@ -1,9 +1,9 @@
 ### My plans for this fork:
 Instead of stupid life counter, I'll turn it into a custom counter for project deadlines
 
-#### Original purpose of the extension
+---
 
-### Description
+### Original description of the extension:
 
 Make every second of your life count. Literally!
 
